@@ -1,3 +1,8 @@
-helloworld/.cproject
-helloworld/.project
+.cproject
+.project
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
 
