@@ -5,5 +5,9 @@ CMakeFiles/
 Makefile
 cmake_install.cmake
 hello
+*.swp
+.settings
+cmake.cache
+
 
 
